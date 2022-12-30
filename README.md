@@ -9,7 +9,6 @@ Let there be n stairs. A person standing at the bottom wants to reach the top. T
 
 Examples:
 
-```
 
 Let n = 1. The person can take 1 step to reach the top. There is only 1 way to reach the top.
 
@@ -26,6 +25,8 @@ Hints:
 For n=6, steps can be 1, 2, 3, 5. Thus, for n=6, the ways to reach the top is the sum of cases when n=6-1, n=6-2, n=6-3, n=6-5. 
 
 When you exceed the time limit of test cases, you may try a faster method.
+
+```
 
 Sample runs:
 
